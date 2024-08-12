@@ -1,4 +1,4 @@
-This project aims to predict the outcome of football matches using historical match data and various machine learning techniques. The notebook walks through the process of loading the dataset, performing exploratory data analysis (EDA), and building predictive models.
+#This project aims to predict the outcome of football matches using historical match data and various machine learning techniques. The notebook walks through the process of loading the dataset, performing exploratory data analysis (EDA), and building predictive models.
 
 Project Overview
 Dataset: The dataset includes information on various football matches, including details like date, time, competition, venue, result, goals scored, and more.
